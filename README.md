@@ -4,7 +4,7 @@
 
 
 ### Hi there, I am  EL-FILALI LIMAM 👋
-[![Linkedin Badge](https://img.shields.io/badge/-El-Filali-Limam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/limam-el-filali-1013b819a/)](https:https://www.linkedin.com/in/limam-el-filali-1013b819a/)
+[![Linkedin Badge](https://img.shields.io/badge/-ElFilaliLimam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/limam-el-filali-1013b819a/)](https:https://www.linkedin.com/in/limam-el-filali-1013b819a/)
 [![Gmail Badge](https://img.shields.io/badge/-elfilalilimame@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elfilalilimame@gmail.com)](mailto:elfilalilimame@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](http://limam.me/MYPORTFOLIO/)
