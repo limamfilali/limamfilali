@@ -26,8 +26,7 @@
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
@@ -37,6 +36,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
+
